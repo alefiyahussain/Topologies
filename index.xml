@@ -1,0 +1,410 @@
+<?xml version="1.0"?>
+<!DOCTYPE mapping PUBLIC "-//EXOLAB/Castor Object Mapping DTD Version 1.0//EN"
+    "http://castor.org/mapping.dtd">
+<catalog>
+	<item>
+		<repotype>git</repotype>
+		<repository>git://github.com/shinyichen/Topologies.git</repository>
+		<path>Rocketfuel/rocketfuel1.top</path>
+		<icon>Rocketfuel/rocketfuel1.top.ico</icon>
+		<type>topology</type>
+		<descriptor id="Node Count" value="35"/>
+		<descriptor id="Edge Count" value="43"/>
+		<descriptor id="Structure" value="rocketfuel"/>
+		<meta id="Author" value="Jennifer Chen"/>
+		<meta id="Email" value="jchen@isi.edu"/>
+		<meta id="Institution" value="USC - ISI"/>
+		<meta id="Created" value="July 28, 2011"/>
+		<meta id="Modified" value="July 28, 2011"/>
+	</item>
+	<item>
+		<repotype>git</repotype>
+		<repository>git://github.com/shinyichen/Topologies.git</repository>
+		<path>Rocketfuel/rocketfuel2.top</path>
+		<icon>Rocketfuel/rocketfuel2.top.ico</icon>
+		<type>topology</type>
+		<descriptor id="Node Count" value="65"/>
+		<descriptor id="Edge Count" value="102"/>
+		<descriptor id="Structure" value="rocketfuel"/>
+		<meta id="Author" value="Jennifer Chen"/>
+		<meta id="Email" value="jchen@isi.edu"/>
+		<meta id="Institution" value="USC - ISI"/>
+		<meta id="Created" value="July 28, 2011"/>
+		<meta id="Modified" value="July 28, 2011"/>
+	</item>
+	<item>
+		<repotype>git</repotype>
+		<repository>git://github.com/shinyichen/Topologies.git</repository>
+		<path>Rocketfuel/rocketfuel3.top</path>
+		<icon>Rocketfuel/rocketfuel3.top.ico</icon>
+		<type>topology</type>
+		<descriptor id="Node Count" value="52"/>
+		<descriptor id="Edge Count" value="57"/>
+		<descriptor id="Structure" value="rocketfuel"/>
+		<meta id="Author" value="Jennifer Chen"/>
+		<meta id="Email" value="jchen@isi.edu"/>
+		<meta id="Institution" value="USC - ISI"/>
+		<meta id="Created" value="July 28, 2011"/>
+		<meta id="Modified" value="July 28, 2011"/>
+	</item>
+	<item>
+		<repotype>git</repotype>
+		<repository>git://github.com/shinyichen/Topologies.git</repository>
+		<path>Rocketfuel/rocketfuel4.top</path>
+		<icon>Rocketfuel/rocketfuel4.top.ico</icon>
+		<type>topology</type>
+		<descriptor id="Node Count" value="64"/>
+		<descriptor id="Edge Count" value="94"/>
+		<descriptor id="Structure" value="rocketfuel"/>
+		<meta id="Author" value="Jennifer Chen"/>
+		<meta id="Email" value="jchen@isi.edu"/>
+		<meta id="Institution" value="USC - ISI"/>
+		<meta id="Created" value="July 28, 2011"/>
+		<meta id="Modified" value="July 28, 2011"/>
+	</item>
+	<item>
+		<repotype>git</repotype>
+		<repository>git://github.com/shinyichen/Topologies.git</repository>
+		<path>Rocketfuel/rocketfuel5.top</path>
+		<icon>Rocketfuel/rocketfuel5.top.ico</icon>
+		<type>topology</type>
+		<descriptor id="Node Count" value="90"/>
+		<descriptor id="Edge Count" value="146"/>
+		<descriptor id="Structure" value="rocketfuel"/>
+		<meta id="Author" value="Jennifer Chen"/>
+		<meta id="Email" value="jchen@isi.edu"/>
+		<meta id="Institution" value="USC - ISI"/>
+		<meta id="Created" value="July 28, 2011"/>
+		<meta id="Modified" value="July 28, 2011"/>
+	</item>
+	<item>
+		<repotype>git</repotype>
+		<repository>git://github.com/shinyichen/Topologies.git</repository>
+		<path>Rocketfuel/rocketfuel6.top</path>
+		<icon>Rocketfuel/rocketfuel6.top.ico</icon>
+		<type>topology</type>
+		<descriptor id="Node Count" value="73"/>
+		<descriptor id="Edge Count" value="78"/>
+		<descriptor id="Structure" value="rocketfuel"/>
+		<meta id="Author" value="Jennifer Chen"/>
+		<meta id="Email" value="jchen@isi.edu"/>
+		<meta id="Institution" value="USC - ISI"/>
+		<meta id="Created" value="July 28, 2011"/>
+		<meta id="Modified" value="July 28, 2011"/>
+	</item>
+	<item>
+		<repotype>git</repotype>
+		<repository>git://github.com/shinyichen/Topologies.git</repository>
+		<path>Rocketfuel/rocketfuel7.top</path>
+		<icon>Rocketfuel/rocketfuel7.top.ico</icon>
+		<type>topology</type>
+		<descriptor id="Node Count" value="82"/>
+		<descriptor id="Edge Count" value="119"/>
+		<descriptor id="Structure" value="rocketfuel"/>
+		<meta id="Author" value="Jennifer Chen"/>
+		<meta id="Email" value="jchen@isi.edu"/>
+		<meta id="Institution" value="USC - ISI"/>
+		<meta id="Created" value="July 28, 2011"/>
+		<meta id="Modified" value="July 28, 2011"/>
+	</item>
+	<item>
+		<repotype>git</repotype>
+		<repository>git://github.com/shinyichen/Topologies.git</repository>
+		<path>Rocketfuel/rocketfuel8.top</path>
+		<icon>Rocketfuel/rocketfuel8.top.ico</icon>
+		<type>topology</type>
+		<descriptor id="Node Count" value="114"/>
+		<descriptor id="Edge Count" value="185"/>
+		<descriptor id="Structure" value="rocketfuel"/>
+		<meta id="Author" value="Jennifer Chen"/>
+		<meta id="Email" value="jchen@isi.edu"/>
+		<meta id="Institution" value="USC - ISI"/>
+		<meta id="Created" value="July 28, 2011"/>
+		<meta id="Modified" value="July 28, 2011"/>
+	</item>
+	<item>
+		<repotype>git</repotype>
+		<repository>git://github.com/shinyichen/Topologies.git</repository>
+		<path>Rocketfuel/rocketfuel9.top</path>
+		<icon>Rocketfuel/rocketfuel9.top.ico</icon>
+		<type>topology</type>
+		<descriptor id="Node Count" value="96"/>
+		<descriptor id="Edge Count" value="106"/>
+		<descriptor id="Structure" value="rocketfuel"/>
+		<meta id="Author" value="Jennifer Chen"/>
+		<meta id="Email" value="jchen@isi.edu"/>
+		<meta id="Institution" value="USC - ISI"/>
+		<meta id="Created" value="July 28, 2011"/>
+		<meta id="Modified" value="July 28, 2011"/>
+	</item>
+	<item>
+		<repotype>git</repotype>
+		<repository>git://github.com/shinyichen/Topologies.git</repository>
+		<path>dumbell3.tfc</path>
+		<icon>dumbell3.ico</icon>
+		<type>traffic</type>
+		<descriptor id="Server Count" value="3"/>
+		<descriptor id="Client Count" value="3"/>
+		<descriptor id="Structure" value="dumbell"/>
+		<meta id="Author" value="Jennifer Chen"/>
+		<meta id="Email" value="jchen@isi.edu"/>
+		<meta id="Institution" value="USC - ISI"/>
+		<meta id="Created" value="July 28, 2011"/>
+		<meta id="Modified" value="July 28, 2011"/>
+	</item>
+	<item>
+		<repotype>git</repotype>
+		<repository>git://github.com/shinyichen/Topologies.git</repository>
+		<path>dumbell10.tfc</path>
+		<icon>dumbell10.tfc.ico</icon>
+		<type>traffic</type>
+		<descriptor id="Server Count" value="10"/>
+		<descriptor id="Client Count" value="10"/>
+		<descriptor id="Structure" value="dumbell"/>
+		<meta id="Author" value="Jennifer Chen"/>
+		<meta id="Email" value="jchen@isi.edu"/>
+		<meta id="Institution" value="USC - ISI"/>
+		<meta id="Created" value="July 28, 2011"/>
+		<meta id="Modified" value="July 28, 2011"/>
+	</item>
+	<item>
+		<repotype>git</repotype>
+		<repository>git://github.com/shinyichen/Topologies.git</repository>
+		<path>loop.top</path>
+		<icon>loop.ico</icon>
+		<type>topology</type>
+		<descriptor id="Node Count" value="3"/>
+		<descriptor id="Edge Count" value="3"/>
+		<descriptor id="Structure" value="loop"/>
+		<meta id="Author" value="Jennifer Chen"/>
+		<meta id="Email" value="jchen@isi.edu"/>
+		<meta id="Institution" value="USC - ISI"/>
+		<meta id="Created" value="July 28, 2011"/>
+		<meta id="Modified" value="July 28, 2011"/>
+	</item>
+	<item>
+		<repotype>git</repotype>
+		<repository>git://github.com/alefiyahussain/TopDL.git</repository>
+		<path>loop5.top</path>
+		<icon>loop.ico</icon>
+		<type>topology</type>
+		<descriptor id="Node Count" value="5"/>
+		<descriptor id="Edge Count" value="5"/>
+		<descriptor id="Structure" value="loop"/>
+		<meta id="Author" value="Jennifer Chen"/>
+		<meta id="Email" value="jchen@isi.edu"/>
+		<meta id="Institution" value="USC - ISI"/>
+		<meta id="Created" value="July 28, 2011"/>
+		<meta id="Modified" value="July 28, 2011"/>
+	</item>
+	<item>
+		<repotype>git</repotype>
+		<repository>git://github.com/alefiyahussain/TopDL.git</repository>
+		<path>loop10.top</path>
+		<icon>loop.ico</icon>
+		<type>topology</type>
+		<descriptor id="Node Count" value="10"/>
+		<descriptor id="Edge Count" value="10"/>
+		<descriptor id="Structure" value="loop"/>
+		<meta id="Author" value="Jennifer Chen"/>
+		<meta id="Email" value="jchen@isi.edu"/>
+		<meta id="Institution" value="USC - ISI"/>
+		<meta id="Created" value="July 28, 2011"/>
+		<meta id="Modified" value="July 28, 2011"/>
+	</item>
+	<item>
+		<repotype>git</repotype>
+		<repository>git://github.com/alefiyahussain/TopDL.git</repository>
+		<path>loop20.top</path>
+		<icon>loop.ico</icon>
+		<type>topology</type>
+		<descriptor id="Node Count" value="20"/>
+		<descriptor id="Edge Count" value="20"/>
+		<descriptor id="Structure" value="loop"/>
+		<meta id="Author" value="Jennifer Chen"/>
+		<meta id="Email" value="jchen@isi.edu"/>
+		<meta id="Institution" value="USC - ISI"/>
+		<meta id="Created" value="July 28, 2011"/>
+		<meta id="Modified" value="July 28, 2011"/>
+	</item>
+	<item>
+		<repotype>git</repotype>
+		<repository>git://github.com/shinyichen/Topologies.git</repository>
+		<path>monitor.mon</path>
+		<icon>monitor.ico</icon>
+		<type>monitor</type>
+		<descriptor id="Node Count" value="3"/>
+		<descriptor id="Edge Count" value="2"/>
+		<descriptor id="Structure" value="loop"/>
+		<meta id="Author" value="Jennifer Chen"/>
+		<meta id="Email" value="jchen@isi.edu"/>
+		<meta id="Institution" value="USC - ISI"/>
+		<meta id="Created" value="July 28, 2011"/>
+		<meta id="Modified" value="July 28, 2011"/>
+	</item>
+	<item>
+		<repotype>git</repotype>
+		<repository>git://github.com/shinyichen/Topologies.git</repository>
+		<path>rat.top</path>
+		<icon>rat.ico</icon>
+		<type>topology</type>
+		<descriptor id="Node Count" value="9"/>
+		<descriptor id="Edge Count" value="10"/>
+		<descriptor id="Structure" value="rat"/>
+		<meta id="Author" value="Jennifer Chen"/>
+		<meta id="Email" value="jchen@isi.edu"/>
+		<meta id="Institution" value="USC - ISI"/>
+		<meta id="Created" value="July 28, 2011"/>
+		<meta id="Modified" value="July 28, 2011"/>
+	</item>
+	<item>
+		<repotype>git</repotype>
+		<repository>git://github.com/shinyichen/Topologies.git</repository>
+		<path>ring.top</path>
+		<icon>ring.ico</icon>
+		<type>topology</type>
+		<descriptor id="Node Count" value="5"/>
+		<descriptor id="Edge Count" value="5"/>
+		<descriptor id="Structure" value="ring"/>
+		<meta id="Author" value="Jennifer Chen"/>
+		<meta id="Email" value="jchen@isi.edu"/>
+		<meta id="Institution" value="USC - ISI"/>
+		<meta id="Created" value="July 28, 2011"/>
+		<meta id="Modified" value="July 28, 2011"/>
+	</item>
+	<item>
+		<repotype>git</repotype>
+		<repository>git://github.com/alefiyahussain/TopDL.git</repository>
+		<path>ring10.top</path>
+		<icon>ring.ico</icon>
+		<type>topology</type>
+		<descriptor id="Node Count" value="10"/>
+		<descriptor id="Edge Count" value="10"/>
+		<descriptor id="Structure" value="ring"/>
+		<meta id="Author" value="Jennifer Chen"/>
+		<meta id="Email" value="jchen@isi.edu"/>
+		<meta id="Institution" value="USC - ISI"/>
+		<meta id="Created" value="July 28, 2011"/>
+		<meta id="Modified" value="July 28, 2011"/>
+	</item>
+	<item>
+		<repotype>git</repotype>
+		<repository>git://github.com/alefiyahussain/TopDL.git</repository>
+		<path>ring20.top</path>
+		<icon>ring.ico</icon>
+		<type>topology</type>
+		<descriptor id="Node Count" value="20"/>
+		<descriptor id="Edge Count" value="20"/>
+		<descriptor id="Structure" value="ring"/>
+		<meta id="Author" value="Jennifer Chen"/>
+		<meta id="Email" value="jchen@isi.edu"/>
+		<meta id="Institution" value="USC - ISI"/>
+		<meta id="Created" value="July 28, 2011"/>
+		<meta id="Modified" value="July 28, 2011"/>
+	</item>
+	<item>
+		<repotype>git</repotype>
+		<repository>git://github.com/shinyichen/Topologies.git</repository>
+		<path>star.top</path>
+		<icon>star.ico</icon>
+		<type>topology</type>
+		<descriptor id="Node Count" value="6"/>
+		<descriptor id="Edge Count" value="5"/>
+		<descriptor id="Structure" value="star"/>
+		<meta id="Author" value="Jennifer Chen"/>
+		<meta id="Email" value="jchen@isi.edu"/>
+		<meta id="Institution" value="USC - ISI"/>
+		<meta id="Created" value="July 28, 2011"/>
+		<meta id="Modified" value="July 28, 2011"/>
+	</item>
+	<item>
+		<repotype>git</repotype>
+		<repository>git://github.com/alefiyahussain/TopDL.git</repository>
+		<path>star10.top</path>
+		<icon>star.ico</icon>
+		<type>topology</type>
+		<descriptor id="Node Count" value="10"/>
+		<descriptor id="Edge Count" value="9"/>
+		<descriptor id="Structure" value="star"/>
+		<meta id="Author" value="Jennifer Chen"/>
+		<meta id="Email" value="jchen@isi.edu"/>
+		<meta id="Institution" value="USC - ISI"/>
+		<meta id="Created" value="July 28, 2011"/>
+		<meta id="Modified" value="July 28, 2011"/>
+	</item>
+	<item>
+		<repotype>git</repotype>
+		<repository>git://github.com/alefiyahussain/TopDL.git</repository>
+		<path>star20.top</path>
+		<icon>star.ico</icon>
+		<type>topology</type>
+		<descriptor id="Node Count" value="20"/>
+		<descriptor id="Edge Count" value="19"/>
+		<descriptor id="Structure" value="star"/>
+		<meta id="Author" value="Jennifer Chen"/>
+		<meta id="Email" value="jchen@isi.edu"/>
+		<meta id="Institution" value="USC - ISI"/>
+		<meta id="Created" value="July 28, 2011"/>
+		<meta id="Modified" value="July 28, 2011"/>
+	</item>
+	<item>
+		<repotype>git</repotype>
+		<repository>git://github.com/shinyichen/Topologies.git</repository>
+		<path>tree.top</path>
+		<icon>tree.ico</icon>
+		<type>topology</type>
+		<descriptor id="Node Count" value="3"/>
+		<descriptor id="Edge Count" value="2"/>
+		<descriptor id="Structure" value="tree"/>
+		<meta id="Author" value="Jennifer Chen"/>
+		<meta id="Email" value="jchen@isi.edu"/>
+		<meta id="Institution" value="USC - ISI"/>
+		<meta id="Created" value="July 28, 2011"/>
+		<meta id="Modified" value="July 28, 2011"/>
+	</item>
+	<item>
+		<repotype>git</repotype>
+		<repository>git://github.com/alefiyahussain/TopDL.git</repository>
+		<path>tree10.top</path>
+		<icon>tree.ico</icon>
+		<type>topology</type>
+		<descriptor id="Node Count" value="10"/>
+		<descriptor id="Edge Count" value="9"/>
+		<descriptor id="Structure" value="tree"/>
+		<meta id="Author" value="Jennifer Chen"/>
+		<meta id="Email" value="jchen@isi.edu"/>
+		<meta id="Institution" value="USC - ISI"/>
+		<meta id="Created" value="July 28, 2011"/>
+		<meta id="Modified" value="July 28, 2011"/>
+	</item>
+	<item>
+		<repotype>git</repotype>
+		<repository>git://github.com/alefiyahussain/TopDL.git</repository>
+		<path>tree20.top</path>
+		<icon>tree.ico</icon>
+		<type>topology</type>
+		<descriptor id="Node Count" value="20"/>
+		<descriptor id="Edge Count" value="19"/>
+		<descriptor id="Structure" value="tree"/>
+		<meta id="Author" value="Jennifer Chen"/>
+		<meta id="Email" value="jchen@isi.edu"/>
+		<meta id="Institution" value="USC - ISI"/>
+		<meta id="Created" value="July 28, 2011"/>
+		<meta id="Modified" value="July 28, 2011"/>
+	</item>
+	<item>
+		<repotype>git</repotype>
+		<repository>git://github.com/shinyichen/Topologies.git</repository>
+		<path>world.top</path>
+		<icon>world.ico</icon>
+		<type>topology</type>
+		<descriptor id="Node Count" value="24"/>
+		<descriptor id="Edge Count" value="30"/>
+		<descriptor id="Structure" value="world"/>
+		<meta id="Author" value="Jennifer Chen"/>
+		<meta id="Email" value="jchen@isi.edu"/>
+		<meta id="Institution" value="USC - ISI"/>
+		<meta id="Created" value="July 28, 2011"/>
+		<meta id="Modified" value="July 28, 2011"/>
+	</item>
+</catalog>
