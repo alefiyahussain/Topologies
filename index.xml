@@ -6,7 +6,7 @@
 		<repotype>git</repotype>
 		<repository>git://github.com/deterlab/Topologies.git</repository>
 		<path>Rocketfuel/rocketfuel1.top</path>
-		<icon>Rocketfuel/rocketfuel1.ico</icon>
+		<icon>Rocketfuel/rocketfuel1.top.ico</icon>
 		<type>topology</type>
 		<descriptor id="Node Count" value="35"/>
 		<descriptor id="Edge Count" value="43"/>
@@ -156,7 +156,7 @@
 		<repotype>git</repotype>
 		<repository>git://github.com/deterlab/Topologies.git</repository>
 		<path>dumbell10.tfc</path>
-		<icon>dumbell10.ico</icon>
+		<icon>dumbell10.tfc.ico</icon>
 		<type>traffic</type>
 		<descriptor id="Server Count" value="10"/>
 		<descriptor id="Client Count" value="10"/>
