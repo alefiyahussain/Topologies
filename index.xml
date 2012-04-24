@@ -4,7 +4,7 @@
 <catalog>
 	<item>
 		<repotype>git</repotype>
-		<repository>git://github.com/shinyichen/Topologies.git</repository>
+		<repository>git://github.com/deterlab/Topologies.git</repository>
 		<path>Rocketfuel/rocketfuel1.top</path>
 		<icon>Rocketfuel/rocketfuel1.top.ico</icon>
 		<type>topology</type>
@@ -19,7 +19,7 @@
 	</item>
 	<item>
 		<repotype>git</repotype>
-		<repository>git://github.com/shinyichen/Topologies.git</repository>
+		<repository>git://github.com/deterlab/Topologies.git</repository>
 		<path>Rocketfuel/rocketfuel2.top</path>
 		<icon>Rocketfuel/rocketfuel2.top.ico</icon>
 		<type>topology</type>
@@ -34,7 +34,7 @@
 	</item>
 	<item>
 		<repotype>git</repotype>
-		<repository>git://github.com/shinyichen/Topologies.git</repository>
+		<repository>git://github.com/deterlab/Topologies.git</repository>
 		<path>Rocketfuel/rocketfuel3.top</path>
 		<icon>Rocketfuel/rocketfuel3.top.ico</icon>
 		<type>topology</type>
@@ -49,7 +49,7 @@
 	</item>
 	<item>
 		<repotype>git</repotype>
-		<repository>git://github.com/shinyichen/Topologies.git</repository>
+		<repository>git://github.com/deterlab/Topologies.git</repository>
 		<path>Rocketfuel/rocketfuel4.top</path>
 		<icon>Rocketfuel/rocketfuel4.top.ico</icon>
 		<type>topology</type>
@@ -64,7 +64,7 @@
 	</item>
 	<item>
 		<repotype>git</repotype>
-		<repository>git://github.com/shinyichen/Topologies.git</repository>
+		<repository>git://github.com/deterlab/Topologies.git</repository>
 		<path>Rocketfuel/rocketfuel5.top</path>
 		<icon>Rocketfuel/rocketfuel5.top.ico</icon>
 		<type>topology</type>
@@ -79,7 +79,7 @@
 	</item>
 	<item>
 		<repotype>git</repotype>
-		<repository>git://github.com/shinyichen/Topologies.git</repository>
+		<repository>git://github.com/deterlab/Topologies.git</repository>
 		<path>Rocketfuel/rocketfuel6.top</path>
 		<icon>Rocketfuel/rocketfuel6.top.ico</icon>
 		<type>topology</type>
@@ -94,7 +94,7 @@
 	</item>
 	<item>
 		<repotype>git</repotype>
-		<repository>git://github.com/shinyichen/Topologies.git</repository>
+		<repository>git://github.com/deterlab/Topologies.git</repository>
 		<path>Rocketfuel/rocketfuel7.top</path>
 		<icon>Rocketfuel/rocketfuel7.top.ico</icon>
 		<type>topology</type>
@@ -109,7 +109,7 @@
 	</item>
 	<item>
 		<repotype>git</repotype>
-		<repository>git://github.com/shinyichen/Topologies.git</repository>
+		<repository>git://github.com/deterlab/Topologies.git</repository>
 		<path>Rocketfuel/rocketfuel8.top</path>
 		<icon>Rocketfuel/rocketfuel8.top.ico</icon>
 		<type>topology</type>
@@ -124,7 +124,7 @@
 	</item>
 	<item>
 		<repotype>git</repotype>
-		<repository>git://github.com/shinyichen/Topologies.git</repository>
+		<repository>git://github.com/deterlab/Topologies.git</repository>
 		<path>Rocketfuel/rocketfuel9.top</path>
 		<icon>Rocketfuel/rocketfuel9.top.ico</icon>
 		<type>topology</type>
@@ -139,7 +139,7 @@
 	</item>
 	<item>
 		<repotype>git</repotype>
-		<repository>git://github.com/shinyichen/Topologies.git</repository>
+		<repository>git://github.com/deterlab/Topologies.git</repository>
 		<path>dumbell3.tfc</path>
 		<icon>dumbell3.ico</icon>
 		<type>traffic</type>
@@ -154,7 +154,7 @@
 	</item>
 	<item>
 		<repotype>git</repotype>
-		<repository>git://github.com/shinyichen/Topologies.git</repository>
+		<repository>git://github.com/deterlab/Topologies.git</repository>
 		<path>dumbell10.tfc</path>
 		<icon>dumbell10.tfc.ico</icon>
 		<type>traffic</type>
@@ -169,7 +169,7 @@
 	</item>
 	<item>
 		<repotype>git</repotype>
-		<repository>git://github.com/shinyichen/Topologies.git</repository>
+		<repository>git://github.com/deterlab/Topologies.git</repository>
 		<path>loop.top</path>
 		<icon>loop.ico</icon>
 		<type>topology</type>
@@ -184,52 +184,7 @@
 	</item>
 	<item>
 		<repotype>git</repotype>
-		<repository>git://github.com/alefiyahussain/TopDL.git</repository>
-		<path>loop5.top</path>
-		<icon>loop.ico</icon>
-		<type>topology</type>
-		<descriptor id="Node Count" value="5"/>
-		<descriptor id="Edge Count" value="5"/>
-		<descriptor id="Structure" value="loop"/>
-		<meta id="Author" value="Jennifer Chen"/>
-		<meta id="Email" value="jchen@isi.edu"/>
-		<meta id="Institution" value="USC - ISI"/>
-		<meta id="Created" value="July 28, 2011"/>
-		<meta id="Modified" value="July 28, 2011"/>
-	</item>
-	<item>
-		<repotype>git</repotype>
-		<repository>git://github.com/alefiyahussain/TopDL.git</repository>
-		<path>loop10.top</path>
-		<icon>loop.ico</icon>
-		<type>topology</type>
-		<descriptor id="Node Count" value="10"/>
-		<descriptor id="Edge Count" value="10"/>
-		<descriptor id="Structure" value="loop"/>
-		<meta id="Author" value="Jennifer Chen"/>
-		<meta id="Email" value="jchen@isi.edu"/>
-		<meta id="Institution" value="USC - ISI"/>
-		<meta id="Created" value="July 28, 2011"/>
-		<meta id="Modified" value="July 28, 2011"/>
-	</item>
-	<item>
-		<repotype>git</repotype>
-		<repository>git://github.com/alefiyahussain/TopDL.git</repository>
-		<path>loop20.top</path>
-		<icon>loop.ico</icon>
-		<type>topology</type>
-		<descriptor id="Node Count" value="20"/>
-		<descriptor id="Edge Count" value="20"/>
-		<descriptor id="Structure" value="loop"/>
-		<meta id="Author" value="Jennifer Chen"/>
-		<meta id="Email" value="jchen@isi.edu"/>
-		<meta id="Institution" value="USC - ISI"/>
-		<meta id="Created" value="July 28, 2011"/>
-		<meta id="Modified" value="July 28, 2011"/>
-	</item>
-	<item>
-		<repotype>git</repotype>
-		<repository>git://github.com/shinyichen/Topologies.git</repository>
+		<repository>git://github.com/deterlab/Topologies.git</repository>
 		<path>monitor.mon</path>
 		<icon>monitor.ico</icon>
 		<type>monitor</type>
@@ -244,7 +199,7 @@
 	</item>
 	<item>
 		<repotype>git</repotype>
-		<repository>git://github.com/shinyichen/Topologies.git</repository>
+		<repository>git://github.com/deterlab/Topologies.git</repository>
 		<path>rat.top</path>
 		<icon>rat.ico</icon>
 		<type>topology</type>
@@ -259,7 +214,7 @@
 	</item>
 	<item>
 		<repotype>git</repotype>
-		<repository>git://github.com/shinyichen/Topologies.git</repository>
+		<repository>git://github.com/deterlab/Topologies.git</repository>
 		<path>ring.top</path>
 		<icon>ring.ico</icon>
 		<type>topology</type>
@@ -274,37 +229,7 @@
 	</item>
 	<item>
 		<repotype>git</repotype>
-		<repository>git://github.com/alefiyahussain/TopDL.git</repository>
-		<path>ring10.top</path>
-		<icon>ring.ico</icon>
-		<type>topology</type>
-		<descriptor id="Node Count" value="10"/>
-		<descriptor id="Edge Count" value="10"/>
-		<descriptor id="Structure" value="ring"/>
-		<meta id="Author" value="Jennifer Chen"/>
-		<meta id="Email" value="jchen@isi.edu"/>
-		<meta id="Institution" value="USC - ISI"/>
-		<meta id="Created" value="July 28, 2011"/>
-		<meta id="Modified" value="July 28, 2011"/>
-	</item>
-	<item>
-		<repotype>git</repotype>
-		<repository>git://github.com/alefiyahussain/TopDL.git</repository>
-		<path>ring20.top</path>
-		<icon>ring.ico</icon>
-		<type>topology</type>
-		<descriptor id="Node Count" value="20"/>
-		<descriptor id="Edge Count" value="20"/>
-		<descriptor id="Structure" value="ring"/>
-		<meta id="Author" value="Jennifer Chen"/>
-		<meta id="Email" value="jchen@isi.edu"/>
-		<meta id="Institution" value="USC - ISI"/>
-		<meta id="Created" value="July 28, 2011"/>
-		<meta id="Modified" value="July 28, 2011"/>
-	</item>
-	<item>
-		<repotype>git</repotype>
-		<repository>git://github.com/shinyichen/Topologies.git</repository>
+		<repository>git://github.com/deterlab/Topologies.git</repository>
 		<path>star.top</path>
 		<icon>star.ico</icon>
 		<type>topology</type>
@@ -319,37 +244,7 @@
 	</item>
 	<item>
 		<repotype>git</repotype>
-		<repository>git://github.com/alefiyahussain/TopDL.git</repository>
-		<path>star10.top</path>
-		<icon>star.ico</icon>
-		<type>topology</type>
-		<descriptor id="Node Count" value="10"/>
-		<descriptor id="Edge Count" value="9"/>
-		<descriptor id="Structure" value="star"/>
-		<meta id="Author" value="Jennifer Chen"/>
-		<meta id="Email" value="jchen@isi.edu"/>
-		<meta id="Institution" value="USC - ISI"/>
-		<meta id="Created" value="July 28, 2011"/>
-		<meta id="Modified" value="July 28, 2011"/>
-	</item>
-	<item>
-		<repotype>git</repotype>
-		<repository>git://github.com/alefiyahussain/TopDL.git</repository>
-		<path>star20.top</path>
-		<icon>star.ico</icon>
-		<type>topology</type>
-		<descriptor id="Node Count" value="20"/>
-		<descriptor id="Edge Count" value="19"/>
-		<descriptor id="Structure" value="star"/>
-		<meta id="Author" value="Jennifer Chen"/>
-		<meta id="Email" value="jchen@isi.edu"/>
-		<meta id="Institution" value="USC - ISI"/>
-		<meta id="Created" value="July 28, 2011"/>
-		<meta id="Modified" value="July 28, 2011"/>
-	</item>
-	<item>
-		<repotype>git</repotype>
-		<repository>git://github.com/shinyichen/Topologies.git</repository>
+		<repository>git://github.com/deterlab/Topologies.git</repository>
 		<path>tree.top</path>
 		<icon>tree.ico</icon>
 		<type>topology</type>
@@ -364,37 +259,7 @@
 	</item>
 	<item>
 		<repotype>git</repotype>
-		<repository>git://github.com/alefiyahussain/TopDL.git</repository>
-		<path>tree10.top</path>
-		<icon>tree.ico</icon>
-		<type>topology</type>
-		<descriptor id="Node Count" value="10"/>
-		<descriptor id="Edge Count" value="9"/>
-		<descriptor id="Structure" value="tree"/>
-		<meta id="Author" value="Jennifer Chen"/>
-		<meta id="Email" value="jchen@isi.edu"/>
-		<meta id="Institution" value="USC - ISI"/>
-		<meta id="Created" value="July 28, 2011"/>
-		<meta id="Modified" value="July 28, 2011"/>
-	</item>
-	<item>
-		<repotype>git</repotype>
-		<repository>git://github.com/alefiyahussain/TopDL.git</repository>
-		<path>tree20.top</path>
-		<icon>tree.ico</icon>
-		<type>topology</type>
-		<descriptor id="Node Count" value="20"/>
-		<descriptor id="Edge Count" value="19"/>
-		<descriptor id="Structure" value="tree"/>
-		<meta id="Author" value="Jennifer Chen"/>
-		<meta id="Email" value="jchen@isi.edu"/>
-		<meta id="Institution" value="USC - ISI"/>
-		<meta id="Created" value="July 28, 2011"/>
-		<meta id="Modified" value="July 28, 2011"/>
-	</item>
-	<item>
-		<repotype>git</repotype>
-		<repository>git://github.com/shinyichen/Topologies.git</repository>
+		<repository>git://github.com/deterlab/Topologies.git</repository>
 		<path>world.top</path>
 		<icon>world.ico</icon>
 		<type>topology</type>
